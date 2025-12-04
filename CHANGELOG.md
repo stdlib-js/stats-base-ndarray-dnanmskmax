@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`a118739`](https://github.com/stdlib-js/stdlib/commit/a118739a4cd7e373ac4f6a74312b56f12ab911fc) - **docs:** update examples _(by Athan Reines)_
 -   [`7757e13`](https://github.com/stdlib-js/stdlib/commit/7757e13d769ec0245261f09ee6209bf646286f45) - **feat:** add `stats/base/ndarray/dnanmskmax` [(#8748#pullrequestreview-3538086086)](https://github.com/stdlib-js/stdlib/pull/8748#pullrequestreview-3538086086) _(by Pratik, Athan Reines)_
 
 </details>
